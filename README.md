@@ -8,3 +8,4 @@
 - npm list -depth=0 (Checking installed)
 - vim index.js (Writing hello world code. And vim is a commandline editor)
 - node index.js (Run Server and browse list in local browser)
+- wget -q -O http://localhost:3000 (Checking output in terminal. wget is a terminal package)
