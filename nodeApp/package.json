@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "Node apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test ap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "author": "srinath",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.14",
+    "sqlite3": "^4.2.0"
+  }
+}
